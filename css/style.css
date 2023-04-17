@@ -4,11 +4,11 @@ html {
 
 body {
   margin: 0;
-  background-color: #ffffff;
+  background-color: cadetblue;
 }
 
 header h1 {
-  background-color: #364552;
+  background-color: teal;
   color: white;
   padding: 3rem 2rem;
   font-size: 3rem;
